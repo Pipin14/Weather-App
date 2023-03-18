@@ -1,2 +1,2 @@
 # Weather-App
-Weather App in Html
+Weather App in Html and CSS
